@@ -25,8 +25,9 @@ SECRET_KEY = 'django-insecure-k9r1m#-x3$%wg(g$+i&!nly!d5q^@g^i71zx9+0v#^-*c4j)mk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['instaview-be-1.onrender.com',]
 CORS_ALLOW_ALL_ORIGINS = True
+
 
 # Application definition
 
